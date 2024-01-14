@@ -6,4 +6,5 @@ a single-hidden-layer neural network with a sigmoid activation function for the 
   - Backpropagation
   - SGD
 
+## Results on Optical Character Recognition (OCR) dataset
 ![Alt text](https://github.com/dcha7225/NNFromScratch/blob/main/lossVsLearnRate.png?raw=true)
